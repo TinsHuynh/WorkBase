@@ -1,0 +1,56 @@
+h1
+{
+    border:solid red;
+    text-align: center;
+    margin-bottom: 2px;
+}
+body
+{
+    margin: 2px 250px 0px 250px;
+}
+.content
+{
+    border:solid red;
+    display: inline-block;
+    margin: 0px 0px 50px 0px;
+    text-align: center;
+    width: 511px;
+    height: 500px;
+}
+.img
+{
+    margin: 50px 100px 50px 100px;
+    width: 250px;
+    height: 250px;
+}
+.icon
+{
+    float: right;
+    float: top;
+    width: 70px;
+    height: 70px;
+}
+h2
+{
+    float: left;
+}
+.price
+{
+    float: bottom;
+    float: left;
+    width: 100px;
+    height: 70px;
+    margin-top: 0px;
+}
+.strap
+{
+    margin-top: -150px;
+    float: right;
+    float: bottom;
+    top: -100px;
+}
+.box
+{
+    width: 70px;
+    height: 70px;
+}
