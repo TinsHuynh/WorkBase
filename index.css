@@ -2,12 +2,12 @@ h1
 {
     border:solid red;
     margin: inherit;
-    margin-bottom: 2px;
+    margin-bottom: -28px;
     text-align: center;
 }
 body
 {
-    margin: 0px 200px 0px 200px;
+    margin: 30px 200px 0px 200px;
 }
 .content
 {
